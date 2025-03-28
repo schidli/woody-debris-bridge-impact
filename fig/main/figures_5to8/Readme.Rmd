@@ -1,0 +1,10 @@
+---
+title: "Readme"
+author: "cscheidl"
+date: "2025-03-28"
+output: html_document
+---
+
+## Force/Time plots generation
+
+The templates for the individual force/time plots are based on the [Python script](./dev/Plot_Groups_lumped_impuls.py), which saves the individual plots in the [folder] (./fig/temp_plts)!
